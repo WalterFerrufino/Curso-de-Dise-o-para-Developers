@@ -1,0 +1,81 @@
+2.
+EL PROCESO CREATIVO.
+Los pasos del proceso creativo:
+
+Preparación: Investigar, recopilar.
+Incubación: Experimentar, sintetizar.
+Iluminación: Idear, imaginar.
+Evaluación: Criticar, replantear.
+Implementación: Construir, trabajar.
+1-. Investigamos y recopilamos toda la información relativa a un problema o algo que queramos solucionar.
+2-. Buscamos diferentes soluciones. Miramos como alguien ya lo soluciono.
+3-. Aquí es donde se nos ocurre las ideas. Ideamos e imaginamos soluciones.
+4-. Evaluamos si estas soluciones son prácticas, son viables. Vemos los fallos y si es necesario, replanteamos las soluciones.
+5-. Construimos la idea hasta el producto final.
+“La creatividad es algo que se desarrolla”
+
+3.
+Conceptos
+
+Balance: Posición de cada elemento está dada por su peso visual
+a. Simétrico
+b. Asimétrico
+Contraste: Señalar un concepto marcado por la diferencia entre 2 elementos distintos (claro obscuro, grande pequeño)
+Alineación: Crear rutas visuales
+Proximidad: Agrupar elementos
+Repetición: Concepto de marca
+Espacio: Como hacerle uso
+
+4.
+DISEÑO RESPONSIVO
+Es una metodología de diseño que nos permite crear diseños que se adpten a los diferentes tipos de pantalla.
+Se debe empezar con los dispositivos móviles.
+Debemos separar las capas de contenido y funcionalidad.
+Utiliza sistemas de grillas y columnas.
+
+Metodologías de Diseño Responsivo
+Mejora Progresiva (Progressive Enhancement)
+Consiste comenzar de una parte solida donde se tiene los elementos básicos de la aplicación y en esta se le va añadiendo las mejoras y las capas de complejidad. Esto permite a los usuarios que tienen hadware de menor capacidad puedan ingresar a nuestro contenido básico y los que tienen hadware mas potente gocen de una mejor experiencia. Sobre todo cuando hablamos de tamaño de la pantalla y memoria RAM.
+Degradación Agraciada (Graceful Degradation)
+En esta partimos de una versión compleja y se va quitando capas de complejidad para que se adapte a dispositivos móviles.
+
+*Estas metodologías también aplican al código
+Datos - Contenido
+HTML - Wireframes
+CSS - Diseño Visual
+JS - Animaciones
+
+5.
+TIPS PARA LA ACCESIBILIDAD Y DISEÑO
+Una parte importante del diseño es la accesibilidad. La accesibilidad es la posibilidad de que cualquier persona pueda acceder a la web, no importa la incapacidad que tenga. Esta accesibilidad es obligatoria en todas la Webs.
+-. Usar los encabezados correctos en cada lugar.
+-. Usar fuentes legibles y visibles fácilmente.
+-. Usar el contraste de colores adecuadamente.
+-. Garantizar que el código de color no sea la única forma de relacionar el contenido.
+-. Diseña teniendo en cuenta los eventos de la página. No quitar el focus o el active, y que estos sean diferentes.
+-. Añade títulos descriptivos a los campos de un formulario.
+-. Los ALT y descripciones de en la fotos y videos es vital.
+-. Evitar que las animaciones bloqueen el contenido.
+
+6.
+BRIEF Y REQUERIMIENTOS TECNICOS.
+El primer elemento que debemos tener claro para construir una aplicación es el BRIEF.
+¿Qué es el BRIEF? Es la hoja de ruta para empezar a diseñar. Es lo que se habló en los pasos del proceso creativo: investigar y recopilar toda la información relativa con el proyecto, con el problema a solucionar. Es donde apuntamos esos datos que hemos recopilado.
+Las secciones más comunes son:
+• Descripción del cliente o producto.
+• Objetivos o retos.
+• El target o audiencia al que va destinado ese producto o servicio.
+• La competencia que puede haber.
+• Como será la distribución.
+Es importante que este documento sea bonito, este organizado y podamos ver bien la jerarquía de contenidos.
+Es importante que cualquier persona que lea el BRIEF sepa que está leyendo.
+Los objetivos es la parte más importante, porque de ahí vamos a partir para crear nuestro producto.
+También es bueno tener un cronograma donde vamos a poner las fechas de las entregas.
+
+7.
+Definicion de diseño UX
+Investigacion ⇒ Recopilar informacion para conocer que ocupan los usuarios principalmente. Es bueno apoyarse de aplicaciones ya existentes para crear un buen diseño UX
+Analisis ⇒ Una vez recopilada la informacion se analiza y se obtienen los puntos importantes que debemos tener en cuenta al momento de crear el diseño
+Diseño ⇒ Se crean prototipos o sketches para visualizar el resultado
+Pruebas de usuario ⇒ Por lo general se llevan a cabo en los sketches para poder realizar ajustes antes de llevar el diseño a codigo
+
